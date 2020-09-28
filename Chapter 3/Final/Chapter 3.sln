@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29020.237
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderWebApp", "OrderWebApp\OrderWebApp.csproj", "{ACC4E30C-BF68-4117-AB3F-BD8E902A1F2F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderWebApp.Library", "OrderWebApp.Library\OrderWebApp.Library.csproj", "{0B635AAF-0E11-44FD-98BA-4EF81C7074C2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderWebApp.Interfaces", "OrderWebApp.Interfaces\OrderWebApp.Interfaces.csproj", "{95F05F4B-3074-4ACE-BFE7-F19E40AFA157}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderWebApp.DataAccess", "OrderWebApp.DataAccess\OrderWebApp.DataAccess.csproj", "{666B00D8-AEA6-46B5-B00B-F22A5F66D639}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "OrderWebApp.Library.Test", "OrderWebApp.Library.Test\OrderWebApp.Library.Test.csproj", "{D147B04D-2F54-42F2-922A-20379BCA86E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OrderWebApp.Libary.NETFramework", "OrderWebApp.Libary.NETFramework\OrderWebApp.Libary.NETFramework.csproj", "{30C8BAB1-0559-4CD7-ABF7-D3D49461810E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACC4E30C-BF68-4117-AB3F-BD8E902A1F2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACC4E30C-BF68-4117-AB3F-BD8E902A1F2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACC4E30C-BF68-4117-AB3F-BD8E902A1F2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACC4E30C-BF68-4117-AB3F-BD8E902A1F2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B635AAF-0E11-44FD-98BA-4EF81C7074C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B635AAF-0E11-44FD-98BA-4EF81C7074C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B635AAF-0E11-44FD-98BA-4EF81C7074C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B635AAF-0E11-44FD-98BA-4EF81C7074C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{95F05F4B-3074-4ACE-BFE7-F19E40AFA157}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F05F4B-3074-4ACE-BFE7-F19E40AFA157}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F05F4B-3074-4ACE-BFE7-F19E40AFA157}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F05F4B-3074-4ACE-BFE7-F19E40AFA157}.Release|Any CPU.Build.0 = Release|Any CPU
+		{666B00D8-AEA6-46B5-B00B-F22A5F66D639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{666B00D8-AEA6-46B5-B00B-F22A5F66D639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{666B00D8-AEA6-46B5-B00B-F22A5F66D639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{666B00D8-AEA6-46B5-B00B-F22A5F66D639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D147B04D-2F54-42F2-922A-20379BCA86E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D147B04D-2F54-42F2-922A-20379BCA86E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D147B04D-2F54-42F2-922A-20379BCA86E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D147B04D-2F54-42F2-922A-20379BCA86E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{30C8BAB1-0559-4CD7-ABF7-D3D49461810E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30C8BAB1-0559-4CD7-ABF7-D3D49461810E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30C8BAB1-0559-4CD7-ABF7-D3D49461810E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30C8BAB1-0559-4CD7-ABF7-D3D49461810E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDDE8B7E-A760-423E-8D85-42A5A3A0277C}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+﻿<Window x:Class="SampleWpfApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:SampleWpfApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="248.185" Width="541.276">
+    <Grid>
+        <Button Content="Click Me" Background="LightBlue" Width="75" Height="40"/>
+    </Grid>
+</Window>

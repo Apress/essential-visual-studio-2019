@@ -1,0 +1,4 @@
+<Playlist Version="1.0">
+  <Add Test="OrderWebApp.Library.Test.OrderTest.Lines_AddOrderLineWithProduct_ProductIsCorrect" />
+  <Add Test="OrderWebApp.Library.Test.OrderTest.Lines_AddOrderLine_LinesCountIsCorrect" />
+</Playlist>

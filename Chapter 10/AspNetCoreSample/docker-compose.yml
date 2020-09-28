@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  aspnetcoresample:
+    image: ${DOCKER_REGISTRY-}aspnetcoresample
+    build:
+      context: .
+      dockerfile: Dockerfile

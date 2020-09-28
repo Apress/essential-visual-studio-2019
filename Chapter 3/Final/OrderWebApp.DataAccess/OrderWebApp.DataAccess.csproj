@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\OrderWebApp.Interfaces\OrderWebApp.Interfaces.csproj" />
+    <ProjectReference Include="..\OrderWebApp.Library\OrderWebApp.Library.csproj" />
+  </ItemGroup>
+
+</Project>
